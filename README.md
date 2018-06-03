@@ -68,4 +68,6 @@ Script Logic
 - An load balancer spreads load across backend services, which distributes traffic among instance groups.
 
 
-### Step 7: Please visit at https://www.dongjin.bid
+### Step 7: Please visit below link.
+
+- https://www.dongjin.bid
