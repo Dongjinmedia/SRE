@@ -66,3 +66,6 @@ Script Logic
 
 - Make load balancer on GCP with my instance group.
 - An load balancer spreads load across backend services, which distributes traffic among instance groups.
+
+
+### Step 7: Please visit at https://www.dongjin.bid
