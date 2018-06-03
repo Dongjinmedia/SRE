@@ -2,6 +2,7 @@
 
 ### Step 1: First of all. Create a 3-tier architecture using GCP.
 ![Alt text](/png)
+
 https://managementmania.com/en/three-tier-architecture
 
 (1) Created SQL instance with mysql on GCP. 
