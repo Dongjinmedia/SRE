@@ -24,6 +24,7 @@ $sql1    = "INSERT INTO $tbl_name(counts) VALUES('$counter')";
 $result1 = mysql_query($sql1);
 }
 
+// print unix time, count and message
 $array = ["timestamp" => time(), "counter" => (int)$counter, "message" =>
  "Hello World"];
 header('Content-Type: application/json');
