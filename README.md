@@ -41,8 +41,8 @@ Script Logic
 - If total = 0 means first visitor in this case insert the value in table.
 
 
-(3) Display Record
-- Display the total count as visitor Count
+(3) Print unix time, count and message
+- Display the timestamp as unix time, total count as visitor Count, and message.
 
 
 (4) Increment
