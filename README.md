@@ -1,4 +1,4 @@
-# Challenge for SRE
+# AfterShip Challenge for SRE
 
 ### Step 1: First of all. Create a 3-tier architecture using GCP.
 ![Alt text](/png)
